@@ -1,0 +1,4 @@
+[submodule "rentomojo-frontend"]
+	path = rentomojo-frontend
+	url = https://github.com/arealdeadone/rentomojo-frontend.git
+	branch = master
